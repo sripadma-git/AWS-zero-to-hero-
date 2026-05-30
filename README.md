@@ -18,13 +18,13 @@ Welcome to the **AWS Zero To Hero** challenge! This repository is designed to he
 
 | Day | Topic | Task Link |
 | :---: | :--- | :--- |
-| **1** | ☁️ Intro to Cloud & AWS Console | [Day 1 Notes & Tasks](./main/Day-1) |
-| **2** | 🔒 IAM & Identity Management | [Day 2 Notes & Tasks](./Day2/README.md) |
-| **3** | 🪣 S3 Buckets & Storage | [Day 3 Notes & Tasks](./Day3/README.md) |
-| **4** | 💻 EC2 & Compute Basics | [Day 4 Notes & Tasks](./Day4/README.md) |
-| **5** | ⚖️ Elastic Load Balancing & Auto Scaling | [Day 5 Notes & Tasks](./Day5/README.md) |
-| **6** | 🗄️ Databases on AWS | [Day 6 Notes & Tasks](./Day6/README.md) |
-| **7** | 📊 Monitoring & Final Project | [Day 7 Notes & Tasks](./Day7/README.md) |
+| **1** | ☁️ Intro to Cloud & AWS Console | [Day 1 Notes & Tasks](./Day-1) |
+| **2** | 🔒 IAM & Identity Management | [Day 2 Notes & Tasks](./Day-2) |
+| **3** | 🪣 S3 Buckets & Storage | [Day 3 Notes & Tasks](./Day-3) |
+| **4** | 💻 EC2 & Compute Basics | [Day 4 Notes & Tasks](./Day-4) |
+| **5** | ⚖️ Elastic Load Balancing & Auto Scaling | [Day 5 Notes & Tasks](./Day-5) |
+| **6** | 🗄️ Databases on AWS | [Day 6 Notes & Tasks](./Day-6) |
+| **7** | 📊 Monitoring & Final Project | [Day 7 Notes & Tasks](./Day-7) |
 
 ---
 
