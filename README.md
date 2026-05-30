@@ -18,7 +18,7 @@ Welcome to the **AWS Zero To Hero** challenge! This repository is designed to he
 
 | Day | Topic | Task Link |
 | :---: | :--- | :--- |
-| **1** | ☁️ Intro to Cloud & AWS Console | [Day 1 Notes & Tasks](./Day1/README.md) |
+| **1** | ☁️ Intro to Cloud & AWS Console | [Day 1 Notes & Tasks](./main/Day-1) |
 | **2** | 🔒 IAM & Identity Management | [Day 2 Notes & Tasks](./Day2/README.md) |
 | **3** | 🪣 S3 Buckets & Storage | [Day 3 Notes & Tasks](./Day3/README.md) |
 | **4** | 💻 EC2 & Compute Basics | [Day 4 Notes & Tasks](./Day4/README.md) |
